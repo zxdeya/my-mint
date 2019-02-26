@@ -1,6 +1,6 @@
 {
   "name": "my-mint",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Mobile UI elements for vue.js",
   "keywords": [
     "component",
@@ -78,6 +78,6 @@
     "webpack-shell-plugin": "^0.4.3"
   },
   "__npminstall_done": "Fri Feb 22 2019 10:51:31 GMT+0800 (GMT+08:00)",
-  "_from": "my-mint@1.0.1",
+  "_from": "my-mint@1.0.2",
   "_resolved": "http://registry.npm.taobao.org/mint-ui/download/mint-ui-2.2.13.tgz"
 }
