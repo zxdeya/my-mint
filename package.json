@@ -1,5 +1,5 @@
 {
-  "name": "mint-ui",
+  "name": "my-mint",
   "version": "2.2.13",
   "description": "Mobile UI elements for vue.js",
   "keywords": [
@@ -28,11 +28,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElemeFE/mint-ui.git"
+    "url": "git+https://github.com/zxdeya/my-mint.git"
   },
-  "homepage": "https://github.com/ElemeFE/mint-ui#readme",
+  "homepage": "https://github.com/zxdeya/my-mint#readme",
   "bugs": {
-    "url": "https://github.com/ElemeFE/mint-ui/issues"
+    "url": "https://github.com/zxdeya/my-mint/issues"
   },
   "author": "elemefe",
   "license": "MIT",
