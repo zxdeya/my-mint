@@ -1,5 +1,5 @@
 {
-  "name": "my-mint",
+  "name": "mint-ui",
   "version": "2.2.13",
   "description": "Mobile UI elements for vue.js",
   "keywords": [
@@ -28,11 +28,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zxdeya/my-mint.git"
+    "url": "git+https://github.com/ElemeFE/mint-ui.git"
   },
-  "homepage": "https://github.com/zxdeya/my-mint#readme",
+  "homepage": "https://github.com/ElemeFE/mint-ui#readme",
   "bugs": {
-    "url": "https://github.com/zxdeya/my-mint/issues"
+    "url": "https://github.com/ElemeFE/mint-ui/issues"
   },
   "author": "elemefe",
   "license": "MIT",
@@ -76,5 +76,8 @@
     "webpack": "beta",
     "webpack-dev-server": "beta",
     "webpack-shell-plugin": "^0.4.3"
-  }
+  },
+  "__npminstall_done": "Fri Feb 22 2019 10:51:31 GMT+0800 (GMT+08:00)",
+  "_from": "mint-ui@2.2.13",
+  "_resolved": "http://registry.npm.taobao.org/mint-ui/download/mint-ui-2.2.13.tgz"
 }
