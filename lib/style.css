@@ -1609,6 +1609,7 @@ display: inline-block;
   color: white;
   box-sizing: border-box;
   text-align: center;
+  z-index: 99;
 }
 .mint-indicator-text {
   display: block;
